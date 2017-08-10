@@ -1,0 +1,27 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Bot Application1.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Bot Application1.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Bot Application1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Autofac.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.Bot.Builder.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.Bot.Connector.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\System.Web.Http.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\obj\Debug\FBPlayersNumber.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\obj\Debug\Bot Application1.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\TRPlateBot-master\TRPlateBot-master\obj\Debug\Bot Application1.pdb
