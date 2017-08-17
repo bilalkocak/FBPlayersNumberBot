@@ -29,8 +29,8 @@ namespace FBPlayersNumber
         {17,"Nabil Dirar"},
         {18,"Carlos Kameni"},
         {19,"Sener Ozbayrakli"},
-        {20,"Kayitli Oyuncu yok"},
-        {21,"Kayitli Oyuncu yok"},
+        {20,"Guiliano"},
+        {21,"Eljif Elmas"},
         {22,"Kayitli Oyuncu yok"},
         {23,"Gregory van der Wiel"},
         {24,"Kayitli Oyuncu yok"},
@@ -108,7 +108,7 @@ namespace FBPlayersNumber
         {96,"Kayitli Oyuncu yok"},
         {97,"Kayitli Oyuncu yok"},
         {98,"Kayitli Oyuncu yok"},
-        {99,"Miroslav Stoch"}
+        {99,"Roberto Soldado"}
     };
 
         public string getPlayerName(int pNumber)
