@@ -23,16 +23,24 @@ namespace FBPlayersNumber
         {11,"Mehmet Ekici"},
         {12,"Sanli Fenerbahce Taraftari"},
         {13,"Kayitli Oyuncu yok"},
-        {14,"Kayitli Oyuncu yok"},
-        {15,"Uygar Zeybek"},
+        {14,"Luis Neto"},
+        {15,"Uygar Mert Zeybek"},
         {16,"Kayitli Oyuncu yok"},
         {17,"Nabil Dirar"},
         {18,"Carlos Kameni"},
         {19,"Sener Ozbayrakli"},
-        {20,"Kayitli Oyuncu yok"},
-        {21,"Kayitli Oyuncu yok"},
+<<<<<<< HEAD
+<<<<<<< HEAD
+        {20,"Giuliano"},
+=======
+        {20,"Guiliano"},
+>>>>>>> 91001340184a34eef6c9b970bb98568b7d6ff4c4
+=======
+        {20,"Guiliano"},
+>>>>>>> 91001340184a34eef6c9b970bb98568b7d6ff4c4
+        {21,"Eljif Elmas"},
         {22,"Kayitli Oyuncu yok"},
-        {23,"Gregory van der Wiel"},
+        {23,"Kayitli Oyuncu yok"},
         {24,"Kayitli Oyuncu yok"},
         {25,"Kayitli Oyuncu yok"},
         {26,"Kayitli Oyuncu yok"},
@@ -57,7 +65,7 @@ namespace FBPlayersNumber
         {45,"Kayitli Oyuncu yok"},
         {46,"Kayitli Oyuncu yok"},
         {47,"Kayitli Oyuncu yok"},
-        {48,"Salih Ucan"},
+        {48,"Kayitli Oyuncu yok"},
         {49,"Kayitli Oyuncu yok"},
         {50,"Kayitli Oyuncu yok"},
         {51,"Kayitli Oyuncu yok"},
@@ -108,7 +116,15 @@ namespace FBPlayersNumber
         {96,"Kayitli Oyuncu yok"},
         {97,"Kayitli Oyuncu yok"},
         {98,"Kayitli Oyuncu yok"},
-        {99,"Miroslav Stoch"}
+<<<<<<< HEAD
+<<<<<<< HEAD
+        {99,"Kayitli Oyuncu yok"}
+=======
+        {99,"Roberto Soldado"}
+>>>>>>> 91001340184a34eef6c9b970bb98568b7d6ff4c4
+=======
+        {99,"Roberto Soldado"}
+>>>>>>> 91001340184a34eef6c9b970bb98568b7d6ff4c4
     };
 
         public string getPlayerName(int pNumber)
