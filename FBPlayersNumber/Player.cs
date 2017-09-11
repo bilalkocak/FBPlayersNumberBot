@@ -32,7 +32,7 @@ namespace FBPlayersNumber
         {20,"Guiliano"},
         {21,"Eljif Elmas"},
         {22,"Kayitli Oyuncu yok"},
-        {23,"Kayitli Oyuncu yok"},
+        {23,"Vincent Janssen"},
         {24,"Kayitli Oyuncu yok"},
         {25,"Kayitli Oyuncu yok"},
         {26,"Kayitli Oyuncu yok"},
